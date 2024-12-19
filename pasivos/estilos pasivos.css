@@ -1,0 +1,28 @@
+.a{font-size: xx-large;
+    font-family: 'Courier New';
+    font-weight: bold;}
+
+
+
+
+p {
+        background: linear-gradient(to left, #101010, #73149c);
+        color: #ffffff;
+        font-size: 19px;
+        padding: 15px;
+        border-radius: 50px;
+        line-height: 1.6;
+    }
+td{
+    text-align: center;
+font-size: 25px;
+    background-color: antiquewhite;
+
+}
+h1{
+color: aqua;
+text-align: center;
+text-decoration:underline purple dashed ;
+
+
+}

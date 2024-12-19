@@ -1,0 +1,38 @@
+ .po{color: rgb(0, 248, 186);font-size: xx-large;font-family:'congenial black' ;}
+ .po1{}
+ p{
+text-align: center;
+color: #ffffff;
+font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+ }
+
+ h1{
+text-align: center;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+ }
+
+ h2{
+text-align: center;
+color: rgb(251, 252, 250);
+text-shadow: 1cm;
+ }
+
+
+ body{
+
+    background-image: url(f2.jpg);
+ }
+
+ .p1{
+color: black;
+font-style: italic;
+text-decoration: underline ;
+
+
+ }
+
+ p{ background-color: rgb(50, 76, 94);}
+ 
